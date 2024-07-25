@@ -1,0 +1,17 @@
+{
+  "movies": [
+    {
+      "id": "1",
+      "title": "Fidha",
+      "releaseDate": "2019",
+      "image": "images/fidhaMovie.png"
+    },
+    {
+      "id": "2",
+      "title": "Jaanu",
+      "releaseDate": "2020",
+      "image": "images/Jaanu.png"
+    }
+  ],
+  "favourites": []
+}
